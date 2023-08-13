@@ -65,8 +65,9 @@
     </div>
 </div>
 
-<div name="connect">
-    <h3>✨&nbsp;About Me</h3>
+<details name="about">
+    <summary><h3>✨&nbsp;About Me</h3></summary>
+    <br/>
     <p>
         🧿 At just 20 years old, I've built a strong foundation as a Python backend developer. My journey into DevOps has been immersive, allowing me to delve deep into tools and methodologies that define the domain. My hands-on experience isn't confined to just one area: from orchestrating containers with Docker and Kubernetes, managing continuous integration and deployment through CI/CD pipelines, to leveraging cloud platforms for scalable solutions, I've covered a broad spectrum. Additionally, my familiarity with various databases equips me to handle data-driven projects with finesse. Beyond the technical, I've taken on leadership roles, spearheading teams and navigating the complexities of project management. This has instilled in me a clear understanding of team dynamics and the multifaceted challenges that leadership positions often entail.
     </p>
@@ -76,7 +77,7 @@
     <p>
         🔍 My pursuits don't stop at traditional development & research. The emergence of NFTs and other blockchain technologies has captured my attention, and I see immense potential in their applications within education. By understanding the inherent properties and capabilities of NFTs, I'm exploring ways to seamlessly integrate them into the educational ecosystem, aiming to reshape and enrich the learning experience for students. Whether it's to authenticate digital certificates, create unique educational assets, or develop new teaching methodologies based on blockchain's transparent and immutable nature, I'm at the forefront of merging cutting-edge technology with educational paradigms. This fusion of academia and technology in my work adds an innovative layer to the projects I undertake.
     </p>
-</div>
+</details>
 
 <!-- <div name="wakatime">
     <h3>📊&nbsp;This week I spent my time on</h3>
@@ -112,15 +113,15 @@
         </picture>
         <picture name="top langs stats">
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=compact&theme=dark"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=donut&theme=dark"
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=compact&theme=default"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=donut&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
             <img alt="top langs stats" height=200 align="center"
-                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=compact">
+                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=donut">
         </picture>
     </div>
     <!-- <div name="codersrank stats">

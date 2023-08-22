@@ -2,7 +2,11 @@
   <img alt="Profile Cover" src="./.github/assets/README.png" />
 </a>
 
-<h4>This is the place, where my code goes public and blunders become legendary 🚀🤣</h4>
+<div>
+  <h4 align="left">This is the place, where my code goes public and blunders become legendary 🚀🤣</h4>
+  <img alt="Profile Views" align="right" src="https://komarev.com/ghpvc/?username=mdpanf&color=003153" />
+</div>
+
 
 <ul>
     <li style="margin-bottom: 10px;">🔭 Currently, I'm crafting my personal web-page</li>

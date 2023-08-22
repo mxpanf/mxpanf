@@ -62,6 +62,10 @@
             <img alt="Mastodon @mxpanf@vmst.io" style="height:26px;" 
                  src="https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=white">
         </a> -->
+        <a href="https://gitlab.com/maksim-panfilov" target="_blank" rel="noopener">
+            <img alt="GitLab: @maksim-panfilov" style="height:26px;" 
+                 src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white">
+        </a>
     </div>
 </div>
 

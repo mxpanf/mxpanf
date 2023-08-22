@@ -79,13 +79,13 @@
     </p>
 </details>
 
-<!-- <div name="wakatime">
+<div name="wakatime">
     <h3>📊&nbsp;This week I spent my time on</h3>
     <a href="https://wakatime.com/@mxpanf" target="_blank" rel="noopener">
         <img alt="WakaTime Stats"
              src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=mxpanf&hide_title=true&hide_border=true&langs_count=5&theme=transparent">
     </a>
-</div> -->
+</div>
 
 
 

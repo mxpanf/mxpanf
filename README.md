@@ -46,7 +46,7 @@
             <img alt="Mail: mxpanf@proton.me" style="height:26px;" 
                  src="https://img.shields.io/badge/Proton%20Mail-6D4AFF.svg?logo=protonmail&logoColor=white">
         </a>
-        <a href="www.linkedin.com/in/mxpanf/" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/mxpanf/" target="_blank" rel="noopener">
             <img alt="LinkedIn: /in/mxpanf" style="height:26px;" 
                  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white">
         </a>

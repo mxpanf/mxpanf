@@ -4,7 +4,7 @@
 
 <div>
   <h4 align="left">This is the place, where my code goes public and blunders become legendary 🚀🤣</h4>
-  <img alt="Profile Views" align="right" src="https://komarev.com/ghpvc/?username=mdpanf&color=003153" />
+  <img alt="Profile Views" align="right" src="https://komarev.com/ghpvc/?username=mxpanf&color=003153" />
 </div>
 
 
@@ -113,11 +113,11 @@
                 media="(prefers-color-scheme: dark)"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true&hide=issues&theme=default"
+                srcset="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img alt="github stats" height=200 align="center"
-                 src="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true&hide=issues" />
+            <img alt="github stats" height=200 width="50%" align="center"
+                 src="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true" />
         </picture>
         <picture name="top langs stats">
             <source

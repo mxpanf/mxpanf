@@ -106,6 +106,9 @@
 <details name="stats">
     <summary><h3>📈&nbsp;Languages&nbsp;&&nbsp;Stats</h3></summary>
     <br/>
+    <div name="codersrank stats">
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mxpanf">
+    </div>
     <div name="gh_stats">
         <picture name="github stats">
             <source
@@ -116,7 +119,7 @@
                 srcset="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true&theme=default"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img alt="github stats" height=200 width="50%" align="center"
+            <img alt="github stats" height=200 align="center"
                  src="https://github-readme-stats.vercel.app/api?username=mxpanf&show_icons=true" />
         </picture>
         <picture name="top langs stats">
@@ -132,9 +135,6 @@
                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxpanf&langs_count=8&layout=donut">
         </picture>
     </div>
-    <!-- <div name="codersrank stats">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mxpanf">
-    </div> -->
 </details>
 
 <div align="center">

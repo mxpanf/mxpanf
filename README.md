@@ -58,12 +58,12 @@
         <a href="#" target="_blank" rel="noopener">
             <img alt="Facebook: mxpanf" style="height:26px;" 
                  src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white">
-        </a>
+        </a> -->
         <a href="#" target="_blank" rel="noopener">
             <img alt="Dev.to: /mxpanf" style="height:26px;" 
-                 src="https://img.shields.io/badge/Dev_Blog-0A0A0A.svg?logo=dev.to&logoColor=white">
+                 src="https://img.shields.io/badge/Dev.to_Blog-0A0A0A.svg?logo=dev.to&logoColor=white">
         </a>
-        <a href="https://vmst.io/@mxpanf" target="_blank" rel="noopener">
+        <!-- <a href="https://vmst.io/@mxpanf" target="_blank" rel="noopener">
             <img alt="Mastodon @mxpanf@vmst.io" style="height:26px;" 
                  src="https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=white">
         </a> -->
